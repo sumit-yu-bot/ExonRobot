@@ -169,8 +169,9 @@ async def EXON_about_callback(update: Update, context: ContextTypes.DEFAULT_TYPE
 
 *ʜᴇʀᴇ ɪs ᴍʏ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ :* [{BOT_NAME}](https://t.me/ab_sumit)
 
+ᴛʜɪꜱ ʀᴇᴘᴏ ɪꜱ ᴇᴅɪᴛᴇᴅ ᴛʜᴇ ʀᴇᴀʟ ʀᴇᴘᴏ ɪꜱ ᴍᴀᴅᴇ ʙʏ ᴀʙɪꜱʜɴᴏɪ69
 
-ᴇxᴏɴ ʀᴏʙᴏᴛ ɪs ʟɪᴄᴇɴsᴇᴅ ᴜɴᴅᴇʀ ᴛʜᴇ [ᴍɪᴛ ʟɪᴄᴇɴsᴇ](https://github.com/isu-op-op).
+ʙᴇʟʟʏ ɪs ʟɪᴄᴇɴsᴇᴅ ᴜɴᴅᴇʀ ᴛʜᴇ [ᴍɪᴛ ʟɪᴄᴇɴsᴇ](https://github.com/isu-op-op).
 © 2022 - 2023 [@ll_sumit_ll](https://t.me/ll_sumit_ll), ᴀʟʟ ʀɪɢʜᴛs ʀᴇsᴇʀᴠᴇᴅ.
 """,
             parse_mode=ParseMode.MARKDOWN,
