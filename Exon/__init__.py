@@ -50,8 +50,8 @@ if sys.version_info[0] < 3 or sys.version_info[1] < 6:
     quit(1)
 
 LOGGER.info(f"ᴠᴇʀsɪᴏɴ: 2.69")
-LOGGER.info("sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ: https://github.com/Abishnoi69/ExonRobot\n")
-LOGGER.info("ᴇxᴏɴ ɪs sᴛᴀʀᴛɪɴɢ. | ᴀɴ ᴀʙɪsʜɴᴏɪᴍғ ᴘʀᴏᴊᴇᴄᴛ ᴘᴀʀᴛs. | ")
+LOGGER.info("sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ: https://github.com/isu-op-op\n")
+LOGGER.info("ʙᴇʟʟʏ ɪs sᴛᴀʀᴛɪɴɢ. | ᴀɴ ꜱᴜᴍɪᴛ ʙᴏᴛꜱ ᴘʀᴏᴊᴇᴄᴛ ᴘᴀʀᴛs. | ")
 
 # ᴠᴇʀs
 API_ID = Config.API_ID
@@ -150,7 +150,7 @@ def Asuinline(**args):
 
 aiohttpsession = ClientSession()
 
-print("[ᴇxᴏɴ]: ɢᴇᴛᴛɪɴɢ ʙᴏᴛ ɪɴғᴏ...")
+print("[ʙᴇʟʟʏ]: ɢᴇᴛᴛɪɴɢ ʙᴏᴛ ɪɴғᴏ...")
 BOT_ID = exon.bot.id
 BOT_NAME = exon.bot.first_name
 BOT_USERNAME = exon.bot.username
