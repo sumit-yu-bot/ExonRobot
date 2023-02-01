@@ -102,7 +102,7 @@ async def EXON_about_callback(update: Update, context: ContextTypes.DEFAULT_TYPE
         )
     elif query.data == "EXON_SUPPORT":
         await query.message.edit_caption(
-            f"*๏ ᴇxᴏɴ sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛs*"
+            f"*๏ ʙᴇʟʟʏ sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛs*"
             f"\nᴊᴏɪɴ ᴍʏ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ/ᴄʜᴀɴɴᴇʟ ғᴏʀ sᴇᴇ ᴏʀ ʀᴇᴘᴏʀᴛ ᴀ ᴘʀᴏʙʟᴇᴍ ᴏɴ {BOT_NAME}",
             parse_mode=ParseMode.MARKDOWN,
             reply_markup=InlineKeyboardMarkup(
@@ -125,7 +125,7 @@ async def EXON_about_callback(update: Update, context: ContextTypes.DEFAULT_TYPE
     elif query.data == "EXON_CREDIT":  # ᴄʀᴇᴅɪᴛ  i ʜᴏᴘᴇ ᴇᴅɪᴛ ɴᴀɪ ʜᴏɢᴀ
         await query.message.edit_caption(
             f"━━━━━━━ *ᴄʀᴇᴅɪᴛ* ━━━━━━━"
-            "\n🛡️ *ᴄʀᴇᴅɪᴛ ꜰᴏʀ ᴇxᴏɴ ʀᴏʙᴏᴛ* 🛡️"
+            "\n🛡️ *ᴄʀᴇᴅɪᴛ ꜰᴏʀ ʙᴇʟʟʏ ʀᴏʙᴏᴛ* 🛡️"
             "\n\nʜᴇʀᴇ ɪꜱ ᴛʜᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴀɴᴅ"
             f"\nꜱᴘᴏɴꜱᴏʀ ᴏꜰ [{BOT_NAME}](t.me/{BOT_USERNAME})"
             "\n\nʜᴇ ꜱᴘᴇɴᴛ ᴀ ʟᴏᴛ ᴏꜰ ᴛɪᴍᴇ ꜰᴏʀ"
