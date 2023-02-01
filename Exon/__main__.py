@@ -259,7 +259,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
                         ),
                         InlineKeyboardButton(
                             text="ᴜᴘᴅᴀᴛᴇꜱ",
-                            url=f"https://t.me/AbishnoiMF",
+                            url=f"https://t.me/ab_sumit,
                         ),
                     ],
                     [
@@ -676,7 +676,7 @@ def main():
 
 if __name__ == "__main__":
     LOGGER.info(
-        "sᴜᴄᴄᴇssғᴜʟʟʏ ʟᴏᴀᴅᴇᴅ ᴍᴏᴅᴜʟᴇs ɪғ sʜᴏᴡ ᴀɴʏ ᴇʀʀᴏʀ ʀᴇᴘᴏʀᴛ ᴀᴛ - @AbishnoiMF :"
+        "sᴜᴄᴄᴇssғᴜʟʟʏ ʟᴏᴀᴅᴇᴅ ᴍᴏᴅᴜʟᴇs ɪғ sʜᴏᴡ ᴀɴʏ ᴇʀʀᴏʀ ʀᴇᴘᴏʀᴛ ᴀᴛ - @twinkle_starz :"
     )
     app.start()
     telethn.start(bot_token=TOKEN)
