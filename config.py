@@ -18,10 +18,10 @@ class Config(object):
     API_ID = int(getenv("API_ID"))
     API_HASH = getenv("API_HASH")
     TOKEN = getenv("TOKEN", None)  # ɢᴇᴛ ᴏɴᴇ ғʀᴏᴍ @BotFather [ᴅᴏɴ'ᴛ ᴀᴅᴅ ʜᴇᴀʀ ʙᴏᴛ ᴛᴏᴋᴇɴ ]
-    OWNER_ID = int(getenv("OWNER_ID", "5938660179"))  # sᴛᴀʀᴛ @Exon_Robot ᴛʏᴘᴇ /id
+    OWNER_ID = int(getenv("OWNER_ID", "2139088940"))  # sᴛᴀʀᴛ @Exon_Robot ᴛʏᴘᴇ /id
     OWNER_USERNAME = getenv("OWNER_USERNAME", None)  # ʏᴏᴜʀᴇ ᴛɢ ᴜsᴇʀɴᴀᴍᴇ ᴡɪᴛʜᴏᴜᴛ @
     SUPPORT_CHAT = getenv(
-        "SUPPORT_CHAT", "AbishnoiMF"
+        "SUPPORT_CHAT", "twinkle_starz"
     )  # sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ ᴜsᴇʀɴᴀᴍᴇ ᴡɪᴛʜᴏᴜᴛ @
     EVENT_LOGS = int(
         getenv("EVENT_LOGS", "-1001573019550")
